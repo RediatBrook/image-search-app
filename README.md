@@ -15,7 +15,7 @@ This is a Streamlit-based image search application that allows users to search f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/image-search-app.git
+   git clone https://github.com/rediatbrook/image-search-app.git
    cd image-search-app
    ```
 
@@ -28,7 +28,7 @@ This is a Streamlit-based image search application that allows users to search f
 3. Run the application:
 
    ```bash
-   streamlit run app.py
+   streamlit run ui_test.py
    ```
 
 ## Usage
