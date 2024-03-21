@@ -28,7 +28,7 @@ This is a Streamlit-based image search application that allows users to search f
 3. Run the application:
 
    ```bash
-   streamlit run ui_test.py
+   python -m streamlit run ui_test.py
    ```
 
 ## Usage
