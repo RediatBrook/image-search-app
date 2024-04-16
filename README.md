@@ -41,5 +41,3 @@ This is a Streamlit-based image search application that allows users to search f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Make sure to replace "your-username" with your actual GitHub username in the repository URL. This `readme.md` provides instructions on how to install and use your image search application, along with information about licensing.
